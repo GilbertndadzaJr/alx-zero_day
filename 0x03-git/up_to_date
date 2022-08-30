@@ -1,8 +1,1 @@
 git add .
-git commit -m 'message'
-git branch  <remote> <branch_name>
-git branch branch_name
-git push <remote> <branch_name>
-git clone <repo>
-git push origin main
-git push 
